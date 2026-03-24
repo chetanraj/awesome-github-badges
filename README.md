@@ -4,25 +4,24 @@
 
 > A curated list of awesome github README.md badges
 
-+ [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status Badges.
-+ [BitDeli](https://bitdeli.com/) - Analytics Badge for GitHub.
-+ [Codeship](https://codeship.com/documentation/faq/codeship-badge/) - Codeship Status Badge.
-+ [Code Climate](https://codeclimate.com) - Automated Code Review For Your Private Repositories.
-+ [Codecov](https://codecov.io) - faster code reviews and workflow enhancements.
-+ [David.](https://david-dm.org/) - Watch your node.js dependencies.
-+ [FORTHEBADGE](http://forthebadge.com/) - Badges for the sake of Badges.
-+ [Gemnasium](https://gemnasium.com/) - Dependencies Checks Badge.
-+ [Gitter](https://gitter.im) - Create a Room using GitHub Repository, Gitter automatically adds badge to the repository.
-+ [Gitential](https://gitential.com) - Coding Hours, Productivity, Active Contributors
-+ [Grunt](http://gruntjs.com/built-with-grunt-badge) - Built with Grunt Badge.
-+ [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby, JS & Elixir.
-+ [JavaScript Standard Style](https://github.com/feross/standard#badge) - JavaScript Standard Style - Not like JSLint or JS Hint
-+ [NodeICO](https://nodei.co/) - classy node.js badges.
-+ [RubyGems](https://rubygems.org/) - Gem Version Badge.
-+ [Semaphore CI](https://semaphoreci.com/docs/how-to-get-build-badge.html) - Semaphore CI Build Status Badge.
-+ [Shields.io](http://shields.io/) - Quality metadata badges for open source projects.
-+ [Stability Badges](https://github.com/badges/stability-badges) - A set of SVG badges to mark your modules with the Node stability index.
-+ [Travis CI](https://docs.travis-ci.com/user/status-images/) - Travis CI Status Badge.
-+ [Version Badge](https://badge.fury.io/) - Version Badge for npm, Ruby, Python, Bower, GitHub, NuGet, PHP, CocoaPods, Perl, PGXN.
-+ [Wercker](http://blog.wercker.com/2014/02/10/branch-badges.html) - Wercker Branch Badges.
-
+* [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status Badges.
+* [Buy Me a Coffee](https://www.buymeacoffee.com/) - Support / sponsorship badge for open source maintainers.
+* [Codeship](https://codeship.com/documentation/faq/codeship-badge/) - Codeship Status Badge.
+* [Code Climate](https://codeclimate.com) - Automated Code Review For Your Private Repositories.
+* [Codecov](https://codecov.io) - Faster code reviews and workflow enhancements.
+* [CodeTriage](https://www.codetriage.com/) - Badge to show how many issues need help in your repository.
+* [DeepSource](https://deepsource.io/) - Automated code review badge for detecting bug risks and anti-patterns.
+* [Dependabot](https://dependabot.com) - Automated dependency update badges, built into GitHub.
+* [FORTHEBADGE](http://forthebadge.com/) - Badges for the sake of Badges.
+* [GitHub Actions](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge) - Official GitHub Actions workflow status badges — no third-party service needed.
+* [Gitter](https://gitter.im) - Create a Room using GitHub Repository, Gitter automatically adds badge to the repository.
+* [Grunt](http://gruntjs.com/built-with-grunt-badge) - Built with Grunt Badge.
+* [JavaScript Standard Style](https://github.com/feross/standard#badge) - JavaScript Standard Style - Not like JSLint or JS Hint.
+* [NodeICO](https://nodei.co/) - Classy node.js badges.
+* [RubyGems](https://rubygems.org/) - Gem Version Badge.
+* [Semaphore CI](https://semaphoreci.com/docs/how-to-get-build-badge.html) - Semaphore CI Build Status Badge.
+* [Shields.io](http://shields.io/) - Quality metadata badges for open source projects.
+* [Snyk](https://snyk.io/docs/snyk-badge/) - Security vulnerability badges for open source dependencies.
+* [Stability Badges](https://github.com/badges/stability-badges) - A set of SVG badges to mark your modules with the Node stability index.
+* [Travis CI](https://docs.travis-ci.com/user/status-images/) - Travis CI Status Badge.
+* [Version Badge](https://badge.fury.io/) - Version Badge for npm, Ruby, Python, Bower, GitHub, NuGet, PHP, CocoaPods, Perl, PGXN.
