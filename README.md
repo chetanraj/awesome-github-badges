@@ -18,6 +18,7 @@
 * [Grunt](http://gruntjs.com/built-with-grunt-badge) - Built with Grunt Badge.
 * [JavaScript Standard Style](https://github.com/feross/standard#badge) - JavaScript Standard Style - Not like JSLint or JS Hint.
 * [NodeICO](https://nodei.co/) - Classy node.js badges.
+* [Related Repos](https://relatedrepos.com/badge) - View other related repositories on GitHub.
 * [RubyGems](https://rubygems.org/) - Gem Version Badge.
 * [Semaphore CI](https://semaphoreci.com/docs/how-to-get-build-badge.html) - Semaphore CI Build Status Badge.
 * [Shields.io](http://shields.io/) - Quality metadata badges for open source projects.
