@@ -20,6 +20,7 @@
 * [NodeICO](https://nodei.co/) - Classy node.js badges.
 * [RubyGems](https://rubygems.org/) - Gem Version Badge.
 * [Semaphore CI](https://semaphoreci.com/docs/how-to-get-build-badge.html) - Semaphore CI Build Status Badge.
+* [shieldcn](https://shieldcn.dev) - Shields.io alternative that renders badges as shadcn/ui Button components via Satori, with dark mode, multiple variants, and 40k+ icons.
 * [Shields.io](http://shields.io/) - Quality metadata badges for open source projects.
 * [Snyk](https://snyk.io/docs/snyk-badge/) - Security vulnerability badges for open source dependencies.
 * [Stability Badges](https://github.com/badges/stability-badges) - A set of SVG badges to mark your modules with the Node stability index.
