@@ -5,6 +5,7 @@
 > A curated list of awesome github README.md badges
 
 * [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status Badges.
+* [AwesomeTime](https://awesometime.vercel.app) - Dynamic SVG badges: year/period progress bars, countdowns, and a "days since" safety-sign badge, with auto dark/light mode and locale support.
 * [Buy Me a Coffee](https://www.buymeacoffee.com/) - Support / sponsorship badge for open source maintainers.
 * [Codeship](https://codeship.com/documentation/faq/codeship-badge/) - Codeship Status Badge.
 * [Code Climate](https://codeclimate.com) - Automated Code Review For Your Private Repositories.
