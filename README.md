@@ -4,6 +4,7 @@
 
 > A curated list of awesome github README.md badges
 
+* [AI Badges](https://github.com/sarthakagrawal927/ai-badges) - Badges for declaring AI contribution percentages and whether AI-assisted pull requests are welcome.
 * [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status Badges.
 * [Buy Me a Coffee](https://www.buymeacoffee.com/) - Support / sponsorship badge for open source maintainers.
 * [Codeship](https://codeship.com/documentation/faq/codeship-badge/) - Codeship Status Badge.
