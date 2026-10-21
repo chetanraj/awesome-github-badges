@@ -6,6 +6,7 @@
 
 * [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status Badges.
 * [AwesomeTime](https://awesometime.vercel.app) - Dynamic SVG badges: year/period progress bars, countdowns, and a "days since" safety-sign badge, with auto dark/light mode and locale support.
+* [b59.link View Counter](https://b59.link/tools/view-counter) - Views counter badge for profile and project READMEs: add `count=1` to the image address and each load counts as a view, no sign-up or script needed.
 * [Buy Me a Coffee](https://www.buymeacoffee.com/) - Support / sponsorship badge for open source maintainers.
 * [Codeship](https://codeship.com/documentation/faq/codeship-badge/) - Codeship Status Badge.
 * [Code Climate](https://codeclimate.com) - Automated Code Review For Your Private Repositories.
