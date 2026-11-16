@@ -18,6 +18,7 @@
 * [Gitter](https://gitter.im) - Create a Room using GitHub Repository, Gitter automatically adds badge to the repository.
 * [Grunt](http://gruntjs.com/built-with-grunt-badge) - Built with Grunt Badge.
 * [JavaScript Standard Style](https://github.com/feross/standard#badge) - JavaScript Standard Style - Not like JSLint or JS Hint.
+* [LogPulse Changelog Badge](https://release-ripple-roadmap.lovable.app/tools/changelog-badge) - Checks a repo's CHANGELOG.md against Keep a Changelog and links to a report with a fix for each issue.
 * [NodeICO](https://nodei.co/) - Classy node.js badges.
 * [Related Repos](https://relatedrepos.com/badge) - View other related repositories on GitHub.
 * [RubyGems](https://rubygems.org/) - Gem Version Badge.
